@@ -2,10 +2,17 @@
 
 #### Servicios
 
-- ```Products``: CRUD para catalogo de productos
+- ``products``: CRUD para catalogo de productos
 
-- ```Products``: Gestiona venta de productos
+- ``sales``: Gestiona venta de productos
 
+<hr/>
+
+#### Generalidades
+
+- El desarrollo se realizo en un ambiente linux, por ello, para la base de datos se utilizo ``PostgreSQL``.
+
+- Se agregra el archivo de ``docker-compose.yml`` para levantar el contenedor de postgresql
 
 <hr/>
 
